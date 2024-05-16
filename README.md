@@ -1,6 +1,4 @@
-<img src="/assets/screenshot_1.png" alt="Home screen" width="200" height="200"/>
-
-![image of app's home screen](/assets/screenshot_1.png)
+<img src="/assets/screenshot_1.png" alt="Home screen" width="600" height="1500"/>
 
 # Objective
 A chat app for mobile devices using React Native. The app provides users with a chat interface and options to share images and location. The App utilizes google Firestone to save messages, photos, and locations.
