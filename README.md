@@ -1,3 +1,5 @@
+![image of app's home screen](/assets/screenshot_1.png)
+
 # Objective
 A chat app for mobile devices using React Native. The app provides users with a chat interface and options to share images and location. The App utilizes google Firestone to save messages, photos, and locations.
 
