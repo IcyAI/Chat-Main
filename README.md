@@ -1,3 +1,5 @@
+<img src="/assets/screenshot_1.png" alt="Home screen" width="200" height="200"/>
+
 ![image of app's home screen](/assets/screenshot_1.png)
 
 # Objective
